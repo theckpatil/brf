@@ -1,14 +1,10 @@
 import React from 'react';
 
-function Hero() {
-    const handleCardClick = (e) => {
-        e.preventDefault();  // Prevent default scrolling behavior
-      };
-      
+function Hero() {   
     return (
         <section className="hero">
             <div className="hero-content">
-                <div className="t-shirt-container" onClick={handleCardClick}>
+                <div className="t-shirt-container">
                     <img src="../assets/img/T-shirt/T-shirt-svg.svg" alt="T-shirt" className="t-shirt-right" />
                 </div>
                 <h1><span style={{color: 'black'}}>BR</span> Fashion</h1>
