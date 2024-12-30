@@ -588,10 +588,6 @@ body {
   font-weight: 500;
 }
 
-.process-card:active {
-  transform: translateY(0); /* Prevents unwanted scrolling when clicked */
-}
-
 /* Responsive Design */
 @media (max-width: 870px) {
   .process-grid {
