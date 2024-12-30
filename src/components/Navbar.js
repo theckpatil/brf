@@ -7,6 +7,7 @@ function Navbar() {
   // Toggle the navigation menu visibility
   const toggleNav = () => {
     setIsNavOpen(!isNavOpen);
+    
   };
 
   // Close the navigation menu when a link is clicked
@@ -43,9 +44,9 @@ function Navbar() {
       <div className="logo">
         <img src="assets/img/Logo/BRF-Logo-New-With-Bg.png" alt="BR Fashion" />
       </div>
-      <div className="nav-toggle" onClick={toggleNav}>
-        <span></span>
-        <span></span>
+      <div className={`nav-toggle ${isNavOpen ? "active" : ""}`}  onClick={toggleNav}>
+        <span ></span>
+        <span ></span>
         <span></span>
       </div>
       <ul className={`nav-links ${isNavOpen ? "active" : ""}`}>
