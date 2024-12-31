@@ -539,6 +539,7 @@ body {
 }
 
 .process-card {
+  background-color: #f4f5f7;
   /* border: 2px solid var(--gunmetal); */
   border: none;
   padding: 20px;
