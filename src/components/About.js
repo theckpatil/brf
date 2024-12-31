@@ -15,26 +15,19 @@ function About() {
 
                 {/* <!-- Right Side: About Information --> */}
                 <div class="who-text"  data-aos="zoom-in" data-aos-duration="1000">
-                    <p>
-                        <strong style={{color: 'var(--office-green)'}}>Since our establishment in 2012</strong>, <strong
-                            style={{color: 'var(--office-green)'}}>BR Fashion</strong> has been the driving force behind
-                        some of the most recognized names in the fashion industry, including <strong
-                           style={{color: 'var(--office-green)'}}>Spykar</strong> and
-                        <strong style={{color: 'var(--office-green)'}}>Bewakoof</strong>. With a passion for excellence and
-                        a commitment to quality, we
-                        specialize in crafting high-quality, customized apparel solutions that empower brands to stand
-                        out in a competitive market.
+                <p> Welcome to <strong>BR Fashion</strong>, where quality and innovation meet the ever-changing world of fashion.
+                        Since 2012, we’ve been creating premium apparel that combines style, comfort, and individuality,
+                        always keeping our clients needs in mind.</p>
+
+                    <p>We take pride in working with leading brands and retailers, blending traditional craftsmanship
+                        with modern trends. Over the years, we’ve earned a reputation for delivering high-quality,
+                        timeless designs that our clients trust and love.
                     </p>
-                    <p>
-                        At <strong style={{color: 'var(--office-green)'}}>BR Fashion</strong> , we believe that every
-                        garment tells a story. Our experienced team is dedicated to
-                        precision stitching and innovative design, ensuring that each piece not only meets but exceeds
-                        expectations.
-                    </p>
-                    <p style={{color: 'var(--office-green)'}}>
-                        Join us on a journey of creativity and craftsmanship, where your vision becomes reality.
-                        Together, we can shape the future of fashion.
-                    </p>
+
+                    <p>At <strong>BR Fashion</strong>, we’re not just about making clothes. we’re about creating an experience. With a
+                        skilled team, top-notch manufacturing, and a focus on sustainability, we ensure every product is
+                        crafted with care and precision. Whether it’s casual wear, formal wear, or custom designs, we
+                        always deliver on time with the highest standards.</p>
                 </div>
 
             </div>

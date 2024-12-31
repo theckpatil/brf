@@ -5,7 +5,7 @@ function Contact() {
     <section class="contact-us section" id="contact">
         <div class="container">
             <h2 class="section-title">Contact Us</h2>
-            <p class="section-description">Get in touch with our team for any inquiries or collaboration opportunities.
+            <p class="section-description">Feel free to contact us for inquiries, collaborations, or feedback.
             </p>
 
             <div class="contact-layout">
